@@ -50,6 +50,9 @@ namespace CompaniesHouse.Core.Response.CompanyProfile
 
         [EnumMember(Value = "unaudited-abridged")]
         UnauditedAbridged,
-        
+
+        [EnumMember(Value = "audited-abridged")]
+        AuditedAbridged
+
     }
 }
